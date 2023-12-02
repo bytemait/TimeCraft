@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.cache/
+.cached/
+*.log
+
+# Local development settings
+*.env
+*.env.local
+*.env.dev
+*.env.development
+*.env.prod
+*.env.production
+
+# Database
+db.sqlite3
+
+# Static files
+/static/
+*.pyc
+
+# Django media
+media/
+
+# Virtual environment
+venv/
+.env/
+env/
+myenv/
+
+# Python artifacts
+*.pyc
+*.pyo
+
+# Test database
+test_db.sqlite3
+
+# Pipenv
+Pipfile
+Pipfile.lock
+
+# Celery Beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+/.vscode
+
+# .DS_Store (macOS)
+.DS_Store
+
+# Node.js
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
